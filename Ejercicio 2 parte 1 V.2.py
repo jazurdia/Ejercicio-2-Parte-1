@@ -31,6 +31,7 @@ def basep(arista_b):  # Función para hacer el pentágono.
 
     lapiz.end_fill()
     turtle.done()
+    # hello
 
 
 arista = int(input("Ingresa el tamaño del pentágono: "))  # Asignamos el valor a la variable "b".
